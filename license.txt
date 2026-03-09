@@ -1,0 +1,13 @@
+                        SL‑Closed License (Survivalier Labs)
+Version 1.0
+
+Projet : Dobrian OS
+Auteur : survivalier
+Année  : 2026
+
+Tous droits réservés.
+
+Aucune copie, modification, redistribution ou utilisation n’est autorisée
+sans accord écrit de survivalier ou de Dobrian OS.
+
+Le non‑respect de ces conditions peut entraîner des actions légales.
