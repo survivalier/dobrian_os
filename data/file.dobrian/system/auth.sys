@@ -1,0 +1,3 @@
+# scope = unlock|lock, 0|1
+home = unlock, 0
+system = lock, 1
